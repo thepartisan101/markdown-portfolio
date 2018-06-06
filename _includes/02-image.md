@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![DaftPunk cat](https://octodex.github.com/images/daftpunktocat-thomas.gif)
